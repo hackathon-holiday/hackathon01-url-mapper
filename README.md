@@ -55,3 +55,15 @@ public interface ISimpleStringParameter
 }
 ```
 
+---
+
+# Round 1
+Total test cases: 454  
+
+|Team|Pass|
+|--|--|
+|Ake|308|
+|Gen|104|
+|Joker|104|
+|Ohaey|104|
+|To|110|
