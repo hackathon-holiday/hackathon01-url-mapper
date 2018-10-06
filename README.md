@@ -57,13 +57,14 @@ public interface ISimpleStringParameter
 
 ---
 
-# Round 1
-Total test cases: 454  
+# Result
+1st round - Total test cases: 454  
+2nd round - Total test cases: 621  
 
-|Team|Pass|
-|--|--|
-|Ake|308|
-|Gen|104|
-|Joker|104|
-|Ohaey|104|
-|To|110|
+|Team|1st-Pass|2nd-Pass|
+|--|--|--|
+|Ake|308|311|
+|Gen|104|469|
+|Joker|104|104|
+|Ohaey|104|453|
+|To|110|479|
