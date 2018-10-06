@@ -192,7 +192,10 @@ namespace UrlMapper.Tests
             var expectedValues = values.Split(splitter);
 
             for (int elementIndex = 0; elementIndex < expectedKeys.Length; elementIndex++)
+            {
+                if (string.IsNullOrEmpty(expectedKeys[elementIndex])) continue;
                 expectedDic.Add(expectedKeys[elementIndex], expectedValues[elementIndex]);
+            }
 
             var actual = new Dictionary<string, string>();
             var isMatch = sut.IsMatched(url);
