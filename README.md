@@ -63,8 +63,8 @@ public interface ISimpleStringParameter
 
 |Team|1st-Pass|2nd-Pass|
 |--|--|--|
-|Ake|308|311|
-|Gen|104|469|
-|Joker|104|104|
-|Ohaey|104|453|
-|To|110|479|
+|Ake|308|381|
+|Gen|104|596|
+|Joker|104|368|
+|Ohaey|104|577|
+|To|110|612|
