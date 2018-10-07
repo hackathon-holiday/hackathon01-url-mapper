@@ -60,12 +60,12 @@ public interface ISimpleStringParameter
 # Result
 1st round - Total test cases: 454  
 2nd round - Total test cases: 621  
-3rd round - Total test cases: 787 (4 performance test cases)  
+3rd round - Total test cases: 788 (4 performance test cases)  
 
 |Rank|Team|1st-Pass|2nd-Pass|3rd-Pass|Performance-Pass|Xamarin|
 |--|--|--|--|--|--|--|
-|1st|To|110|612|753|3|/|
-|2nd|Gen|104|596|700|0||
-|3rd|Joker|104|368|673|0|/|
-|4th|Ohaey|104|577|592|3||
-|5th|Ake|308|381|468|0||
+|1st|To|110|612|785|4|/|
+|2nd|Gen|104|596|730|0||
+|3rd|Joker|104|368|704|0|/|
+|4th|Ohaey|104|577|602|4||
+|5th|Ake|308|381|469|0||
